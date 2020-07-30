@@ -102,3 +102,5 @@ info
 
 66
 
+
+Credits:Script is inspired from "@healthyoutlet",<a href="https://github.com/tehryanx/sprawl" style="font-size: 11px;" target="_self">sprawl</a> script.

@@ -1,6 +1,7 @@
 # request-generator
 
 This script is used for generating multiple paths from a single url.It ignores the values after question mark in the request.
+This can be usefull if you want to try new multiple paths.
 
 Usage:
 
